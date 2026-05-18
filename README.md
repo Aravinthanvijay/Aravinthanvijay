@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravinthanvijay&show_icons=true&locale=en" alt="aravinthanvijay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravinthanvijay&" alt="aravinthanvijay" /></p>
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/b8c0587f-da1f-4d01-b77d-7e150557de01" />
