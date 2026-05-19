@@ -1,27 +1,103 @@
-<h1 align="center">Hi 👋, I'm Aravinthan V</h1>
-<h3 align="center">A passionate AI/ML Engineer developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravinthanvijay&label=Profile%20views&color=0e75b6&style=flat" alt="aravinthanvijay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinthanvijay" alt="aravinthanvijay" /></a> </p>
-
-- 🔭 I’m currently working on [Brand-Guardian-AI](https://github.com/Aravinthanvijay/Brand-Guardian-AI)
-
-- 🌱 I’m currently learning **Azure ,LLMOPS**
-
-- 📫 How to reach me **aravinthanvijayakumar5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aravinthan-vijayakumar-a7b6232b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aravinthan-vijayakumar-a7b6232b3/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/641027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="641027" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0F172A,70:2563EB,100:06B6D4&text=Aravinthan%20V&fontColor=FFFFFF&fontSize=60&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20Generative%20AI%20Engineer&descAlignY=60&descSize=20" alt="Aravinthan Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravinthanvijay&show_icons=true&locale=en&layout=compact" alt="aravinthanvijay" /></p>
+# Aravinthan V
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravinthanvijay&show_icons=true&locale=en" alt="aravinthanvijay" /></p>
+### AI Engineer | ML Developer | Generative AI Enthusiast
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravinthanvijay&" alt="aravinthanvijay" /></p>
+[![GitHub](https://img.shields.io/badge/GitHub-Aravinthanvijay-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravinthanvijay)
+
+[![Email](https://img.shields.io/badge/Email-aravinthanvijayakumar5%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravinthanvijayakumar5@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+</div>
+
+<p align="center">
+  Passionate about building scalable AI systems, intelligent automation workflows, and real-world Generative AI applications.
+</p>
+
+---
+
+# About Me
+
+I am an aspiring AI and Machine Learning engineer focused on building practical, scalable, and impactful AI solutions using modern technologies. My interests span across Generative AI, Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and cloud-based AI systems.
+
+I enjoy designing end-to-end AI applications, experimenting with modern AI workflows, and building recruiter-friendly projects that demonstrate real-world engineering skills. My goal is to grow into a strong AI engineer capable of building production-ready intelligent systems.
+
+---
+
+# What I Focus On
+
+- Generative AI Applications
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Workflow Automation
+- FastAPI-based AI Backends
+- Azure OpenAI & OpenAI APIs
+- Kafka-based Real-Time AI Systems
+- Explainable AI & ML Pipelines
+- Docker & Deployment Workflows
+- End-to-End AI Project Development
+
+---
+
+# Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,github,azure,react,nodejs,mysql,mongodb,postgresql,kafka" alt="Tech Stack" />
+</div>
+
+<p align="center">
+  <b>Python</b> • <b>FastAPI</b> • <b>Azure OpenAI</b> • <b>OpenAI APIs</b> • <b>Docker</b> • <b>Kafka</b> • <b>MongoDB</b> • <b>PostgreSQL</b> • <b>React</b> • <b>Node.js</b>
+</p>
+
+---
+
+# Current Work
+
+- Building production-style AI and ML projects
+- Exploring Agentic AI and LangGraph workflows
+- Developing RAG-based AI systems
+- Learning advanced Azure AI services and deployment workflows
+- Improving system design, architecture, and MLOps skills
+
+---
+
+# Featured Projects
+
+### 🚀 Loan Underwriting AI System
+AI-powered multi-agent underwriting platform using FastAPI, LangGraph, XGBoost, OCR, SHAP, and RAG-based policy analysis.
+
+### 🚀 Real-Time Fraud Detection System
+Kafka-powered fraud detection pipeline with explainable AI, FastAPI APIs, MongoDB integration, and LLM-generated fraud explanations.
+
+### 🚀 Brand-Guardian-AI
+AI-powered brand compliance and monitoring system using Azure AI services and Generative AI workflows.
+
+GitHub Repository:
+- [Brand-Guardian-AI](https://github.com/Aravinthanvijay/Brand-Guardian-AI)
+
+---
+
+# Career Goal
+
+I am building a strong portfolio in Artificial Intelligence, Machine Learning, and Generative AI with a focus on solving real-world problems through scalable and intelligent systems. I aim to become a highly skilled AI engineer capable of designing production-ready AI architectures and impactful AI products.
+
+---
+
+# Contact
+
+- Name: **Aravinthan V**
+- GitHub: [Aravinthanvijay](https://github.com/Aravinthanvijay)
+- Email: `aravinthanvijayakumar5@gmail.com`
+- LinkedIn: `Add your LinkedIn profile link here`
+
+---
+
+<p align="center">
+  <b>Built with consistency, curiosity, and a passion for real-world AI engineering.</b>
+</p>
