@@ -12,7 +12,7 @@
 
 [![Email](https://img.shields.io/badge/Email-aravinthanvijayakumar5%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravinthanvijayakumar5@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravinthan-vijayakumar-a7b6232b3/)
 
 </div>
 
@@ -22,30 +22,30 @@
 
 ---
 
-# About Me
+## About Me
 
-I am an aspiring AI and Machine Learning engineer focused on building practical, scalable, and impactful AI solutions using modern technologies. My interests span across Generative AI, Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and cloud-based AI systems.
+I am an aspiring AI and Machine Learning engineer focused on building practical, scalable, and impactful AI solutions using modern technologies. My interests span across Generative AI, Large Language Models, AI Agents, Retrieval-Augmented Generation, and cloud-based AI systems.
 
 I enjoy designing end-to-end AI applications, experimenting with modern AI workflows, and building recruiter-friendly projects that demonstrate real-world engineering skills. My goal is to grow into a strong AI engineer capable of building production-ready intelligent systems.
 
 ---
 
-# What I Focus On
+## What I Focus On
 
 - Generative AI Applications
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Workflow Automation
+- Large Language Models
+- Retrieval-Augmented Generation
+- AI Agents and Workflow Automation
 - FastAPI-based AI Backends
-- Azure OpenAI & OpenAI APIs
+- Azure OpenAI and OpenAI APIs
 - Kafka-based Real-Time AI Systems
-- Explainable AI & ML Pipelines
-- Docker & Deployment Workflows
+- Explainable AI and ML Pipelines
+- Docker and Deployment Workflows
 - End-to-End AI Project Development
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,github,azure,react,nodejs,mysql,mongodb,postgresql,kafka" alt="Tech Stack" />
@@ -57,7 +57,7 @@ I enjoy designing end-to-end AI applications, experimenting with modern AI workf
 
 ---
 
-# Current Work
+## Current Work
 
 - Building production-style AI and ML projects
 - Exploring Agentic AI and LangGraph workflows
@@ -67,34 +67,38 @@ I enjoy designing end-to-end AI applications, experimenting with modern AI workf
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-### 🚀 Loan Underwriting AI System
+### Loan Underwriting AI System
+
 AI-powered multi-agent underwriting platform using FastAPI, LangGraph, XGBoost, OCR, SHAP, and RAG-based policy analysis.
 
-### 🚀 Real-Time Fraud Detection System
+### Real-Time Fraud Detection System
+
 Kafka-powered fraud detection pipeline with explainable AI, FastAPI APIs, MongoDB integration, and LLM-generated fraud explanations.
 
-### 🚀 Brand-Guardian-AI
+### Brand-Guardian-AI
+
 AI-powered brand compliance and monitoring system using Azure AI services and Generative AI workflows.
 
 GitHub Repository:
+
 - [Brand-Guardian-AI](https://github.com/Aravinthanvijay/Brand-Guardian-AI)
 
 ---
 
-# Career Goal
+## Career Goal
 
 I am building a strong portfolio in Artificial Intelligence, Machine Learning, and Generative AI with a focus on solving real-world problems through scalable and intelligent systems. I aim to become a highly skilled AI engineer capable of designing production-ready AI architectures and impactful AI products.
 
 ---
 
-# Contact
+## Contact
 
 - Name: **Aravinthan V**
 - GitHub: [Aravinthanvijay](https://github.com/Aravinthanvijay)
 - Email: `aravinthanvijayakumar5@gmail.com`
-- LinkedIn: `Add your LinkedIn profile link here`
+- LinkedIn: [Aravinthan Vijayakumar](https://www.linkedin.com/in/aravinthan-vijayakumar-a7b6232b3/)
 
 ---
 
